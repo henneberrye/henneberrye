@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Eugene Henneberry.
-- I'm a Computer Science Major.
+- I recently finished my BS in Computer Science a Lewis University.
 - I work for a class 1 Railroad.
-- I'm looking to transition into cyber security.
-- 👀 I’m interested in Security
-- 🌱 I’m currently learning JavaScript
+- I'm looking to transition into It/Cybersecurity.
+- 👀 I’m interested in networking, security, and technology. 
+- 🌱 I’m currently studying for the network+ certification. 
 - 📫 How to reach me henneberrye@gmail.com or eugenethenneberry@lewisu.edu
 
 <!---
